@@ -8,4 +8,4 @@ This repository contains the Coq formalisation of the paper "Certified Undecidab
 
 `make` should do the job. The files are tested to compile with `The Coq Proof Assistant, version 8.8.2 (October 2018)`.
 
-The compiled HTML version of the files can be found (here)[https://uds-psl.github.io/ill-undecidability/toc.html] or in the `docs` subdirectory of this repository.
+The compiled HTML version of the files can be found [here](https://uds-psl.github.io/ill-undecidability/toc.html) or in the `docs` subdirectory of this repository.
