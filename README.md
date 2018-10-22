@@ -2,7 +2,7 @@
 
 Yannick Forster <forster@ps.uni-saarland.de>, Dominique Larchey-Wendling <dominique.larchey-wendling@loria.fr>
 
-This repository contains the Coq formalisation of the paper "Certified Undecidability of Intuitionistic Linear Logic via Binary Stack Machines and Minsky Machines" ([pre-print](https://www.ps.uni-saarland.de/~forster/downloads/certified-undecidability-of-ill.pdf)), currently under review.
+This repository contains the Coq formalisation of the paper "Certified Undecidability of Intuitionistic Linear Logic via Binary Stack Machines and Minsky Machines" ([pre-print](https://www.ps.uni-saarland.de/Publications/documents/ForsterLarchey-Wendling_2018_Undecidability-ILL.pdf)), currently under review.
 
 ## How to compile the code
 
